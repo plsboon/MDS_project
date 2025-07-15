@@ -1,4 +1,4 @@
-MDS project Sample notbooks
+MDS project Sample notebooks
 
 Hello!
 
